@@ -21,11 +21,11 @@
    <children>
       <ScrollPane fitToHeight="true" fitToWidth="true" hvalue="0.55" minHeight="-Infinity" minWidth="-Infinity" prefHeight="320.0" prefWidth="720.0">
         <content>
-          <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="1600.0">
+          <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="600.0">
                <children>
-                  <ImageView fitHeight="300.0" fitWidth="1600.0" layoutX="14.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="23.2403564453125" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="186.0" AnchorPane.topAnchor="7.0">
+                  <ImageView fitHeight="300.0" fitWidth="1600.0" layoutX="14.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="3.2403564453125" AnchorPane.leftAnchor="214.0" AnchorPane.rightAnchor="186.0" AnchorPane.topAnchor="7.0">
                      <image>
-                        <Image url="@/images/metro.gif" />
+                        <Image url="@/images/transmilenio.gif" />
                      </image>
                   </ImageView>
                </children></AnchorPane>
